@@ -1,0 +1,14 @@
+{
+  "author": "Victor Santana",
+  "gitHubUrl": "https://github.com/welasco",
+  "payPalUrl": "https://www.paypal.com/",
+  "packages": [
+    {
+      "name": "Hubitat Alarm",
+      "category": "Security",
+      "tags": [ "Safety & Security" ],
+      "location": "https://raw.githubusercontent.com/Welasco/HubitatAlarm/master/packageManifest.json",
+      "description": "Integrate your DSC or Honeywell alarm with Hubitat environment. Check out https://github.com/Welasco/HubitatAlarm for more information."
+    }
+  ]
+}
