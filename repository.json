@@ -11,7 +11,7 @@
         "Safety & Security"
       ],
       "location": "https://raw.githubusercontent.com/Welasco/HubitatAlarm/master/packageManifest.json",
-      "description": "Integrate your DSC or Honeywell alarm with Hubitat environment. Check out https://github.com/Welasco/HubitatAlarm for more information."
+      "description": "Integration with DSC IT-100/Envisalink or Honeywell Vista/Envisalink Alarm Systems (requires SMB or Raspberry Pi). For more information https://github.com/Welasco/HubitatAlarm"
     }
   ]
 }
