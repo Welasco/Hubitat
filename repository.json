@@ -5,7 +5,11 @@
     {
       "name": "Hubitat Alarm",
       "category": "Security",
-      "tags": [ "Safety & Security" ],
+      "tags": [
+        "Alarm Systems",
+        "Monitoring",
+        "Safety & Security"
+      ],
       "location": "https://raw.githubusercontent.com/Welasco/HubitatAlarm/master/packageManifest.json",
       "description": "Integrate your DSC or Honeywell alarm with Hubitat environment. Check out https://github.com/Welasco/HubitatAlarm for more information."
     }
